@@ -60,7 +60,7 @@ public class Uploader {
     BinaryUploadRequest request = new BinaryUploadRequest(context, serverUrl)
       .setMethod(httpMethod)
       .setFileToUpload(filePath)
-      .setNotificationConfig((ctx, uploadId) -> notificationConfig)
+      // .setNotificationConfig((ctx, uploadId) -> notificationConfig)
       .setMaxRetries(maxRetries);
 
     // Set the Content-Type header for the file
