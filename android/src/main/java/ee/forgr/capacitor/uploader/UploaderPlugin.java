@@ -48,7 +48,7 @@ public class UploaderPlugin extends Plugin {
 
   @Override
   public void load() {
-    createNotificationChannel();
+    // createNotificationChannel();
 
     // Create a request observer for all uploads
     RequestObserver observer = new RequestObserver(
