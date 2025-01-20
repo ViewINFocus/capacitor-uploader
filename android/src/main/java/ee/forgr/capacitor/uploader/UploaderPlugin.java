@@ -49,7 +49,7 @@ public class UploaderPlugin extends Plugin {
   @Override
   public void load() {
     // remove notification channel creation
-    // createNotificationChannel();
+    createNotificationChannel();
 
     // Create a request observer for all uploads
     RequestObserver observer = new RequestObserver(
