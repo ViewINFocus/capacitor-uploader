@@ -2,6 +2,50 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [7.1.3](https://github.com/Cap-go/capacitor-uploader/compare/7.1.2...7.1.3) (2025-05-06)
+
+### [7.1.2](https://github.com/Cap-go/capacitor-uploader/compare/7.1.1...7.1.2) (2025-05-06)
+
+### [7.1.1](https://github.com/Cap-go/capacitor-uploader/compare/7.1.0...7.1.1) (2025-05-06)
+
+
+### Bug Fixes
+
+* delete old files ([c84739f](https://github.com/Cap-go/capacitor-uploader/commit/c84739f294a5c0c031943e34fbd4efd3ec39fd33))
+* ios build ([cc58e89](https://github.com/Cap-go/capacitor-uploader/commit/cc58e89ae1a2caa03bfb79c08f14c5510bb478a7))
+
+## [7.1.0](https://github.com/Cap-go/capacitor-uploader/compare/0.0.66...7.1.0) (2025-02-08)
+
+
+### Features
+
+* migrate to capacitor v7 ([91c8aff](https://github.com/Cap-go/capacitor-uploader/commit/91c8aff6d7f79d63244fadc35a7704e2b1636b27))
+
+
+### Bug Fixes
+
+* docgen ([87cc365](https://github.com/Cap-go/capacitor-uploader/commit/87cc365e636144e2a9973b71dd17a043f93fe45f))
+* lint + CI ([c102f8a](https://github.com/Cap-go/capacitor-uploader/commit/c102f8a75fb8e75d9a66205cef83fe00f3055cb2))
+
+### [0.0.66](https://github.com/Cap-go/capacitor-uploader/compare/0.0.65...0.0.66) (2025-02-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency net.gotev:uploadservice to v4.9.4 ([#59](https://github.com/Cap-go/capacitor-uploader/issues/59)) ([f95d591](https://github.com/Cap-go/capacitor-uploader/commit/f95d591b0236356b3b7a2b6ae54ca4870a49225e))
+
+### [0.0.65](https://github.com/Cap-go/capacitor-uploader/compare/0.0.64...0.0.65) (2025-02-03)
+
+### [0.0.64](https://github.com/Cap-go/capacitor-uploader/compare/0.0.63...0.0.64) (2025-01-27)
+
+### [0.0.63](https://github.com/Cap-go/capacitor-uploader/compare/0.0.62...0.0.63) (2025-01-27)
+
+### [0.0.62](https://github.com/Cap-go/capacitor-uploader/compare/0.0.61...0.0.62) (2025-01-23)
+
+### [0.0.61](https://github.com/Cap-go/capacitor-uploader/compare/0.0.60...0.0.61) (2025-01-20)
+
+### [0.0.60](https://github.com/Cap-go/capacitor-uploader/compare/0.0.59...0.0.60) (2025-01-20)
+
 ### [0.0.59](https://github.com/Cap-go/capacitor-uploader/compare/0.0.58...0.0.59) (2025-01-13)
 
 ### [0.0.58](https://github.com/Cap-go/capacitor-uploader/compare/0.0.57...0.0.58) (2025-01-06)
